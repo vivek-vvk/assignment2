@@ -1,0 +1,26 @@
+nav{
+    border: solid 2px rgb(158, 157, 219);
+    border-radius: 20px;
+
+}
+
+.carousel-inner{
+    height: 250px;
+}
+body{
+background-size: cover;
+}
+a{color: rgb(29, 30, 31);
+    border:solid 1px black;
+text-decoration: none;
+border-radius: 5px;
+}
+.navbar{
+    background-color: rgb(186, 243, 160);
+}
+h1{
+    color: rgb(240, 224, 83);
+}
+img{
+    border-radius: 30px;
+}

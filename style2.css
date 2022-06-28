@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+form{width: 450px;
+    height: 700px;
+    border: solid 2px yellow;
+margin-top: 50px;
+margin-bottom: 5px;
+padding-top: 40px;
+margin-left: 100px;
+margin-right: 100px;
+border-radius: 30px;
+color: yellow;
+padding-left: 10px;
+padding-right: 30px;
+}
+img{
+border-radius: 30px;
+
+}
+
+body{
+    background-size: cover;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link {border: solid 2px white;
+    border-radius: 20px;
+color: white;
+margin: 2px;
+}
+.nav-link:hover{
+color: rgb(26, 22, 22);
+background-color: rgb(215, 217, 223);
+}
+#home{border: solid 2px white;
+    border-radius: 10px;
+    padding-top: 10px;
+    width: 30px;
+    height: 50px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-left: 5px;
+}
+#home:hover{
+    background-color: rgb(110, 100, 81);
+}
+#one{
+    color: white;
+}
+
+

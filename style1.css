@@ -1,0 +1,58 @@
+
+.mb-3{
+  margin: 20px;  
+  text-align: justify;  
+  color: white;
+}
+input{
+    border-radius: 10px;
+}
+button{
+    border-radius: 6px;
+    border: solid 2px white;
+}
+img{
+    background-size: cover;
+}
+form{border: solid 2px white;
+    border-radius: 10px;
+    margin-top: 5em;
+    margin-left: 30%;
+margin-right: 40%;
+padding-bottom: 10px;
+   color: white;
+}
+input{
+color: white;
+}
+a{
+    border: 1px;
+    background-color: white;
+    border-radius: 5px;
+    
+
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link {border: solid 2px white;
+    border-radius: 20px;
+color: white;
+margin: 2px;
+}
+.nav-link:hover{
+color: rgb(26, 22, 22);
+background-color: rgb(215, 217, 223);
+}
+#home{
+    padding-top: 10px;
+    width: 30px;
+    height: 50px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-left: 5px;
+}
+
+.btn {
+margin-left: 25px;
+}

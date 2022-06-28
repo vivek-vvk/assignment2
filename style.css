@@ -1,0 +1,22 @@
+
+
+.navbar-brand{
+    color: white;
+}
+.nav-link {border: solid 2px white;
+    border-radius: 20px;
+color: white;
+margin: 2px;
+}
+.nav-link:hover{
+color: black;
+background-color: aliceblue;
+
+}
+container{
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    
+}
